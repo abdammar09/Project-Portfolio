@@ -3,7 +3,6 @@ In this course re-design project I created digital read + write  laboratory manu
 <br>
 <br>
 Please navigate to these pages to find the Jupyter Notebooks which I designed for the laboratory experiments
-<br>
 - [Hydraulic RC Circuit](https://www.example.com)
 - [Hydraulic vs Electric Circuits - Electric Resistivities](https://www.example.com)
 
