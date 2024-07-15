@@ -12,6 +12,6 @@ Please navigate to these links to view(and maybe attempt :) ) some of the questi
 Here is the workflow I utilized in designing original questions for the problem bank.
 <br>
 <br>
-<img title="a title" alt="Alt text" src="https://github.com/abdammar09/Project-Portfolio/blob/main/Engineering%20Mechanics%20Problem%20Bank/Neutral%20Flowchart%20Template%20(1).png">
+<img src="https://github.com/abdammar09/Project-Portfolio/blob/main/Engineering%20Mechanics%20Problem%20Bank/Neutral%20Flowchart%20Template%20(1).png" alt="drawing" width="50%"/>
 
 To browse the scripts I used to code the questions and publish to the Prairie Learn problem bank please navigate to this directory: [Question Scripts](https://ca.prairielearn.com/pl/course_instance/2405/instance_question/90437987/)
