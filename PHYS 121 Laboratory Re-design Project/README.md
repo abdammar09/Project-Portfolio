@@ -7,6 +7,8 @@ Here are some images of generated plots using these functions
 <br>
 ![alt-text-1](https://github.com/abdammar09/Project-Portfolio/blob/main/PHYS%20121%20Laboratory%20Re-design%20Project/images/image009.png "title-1" =50%x) ![alt-text-2](https://github.com/abdammar09/Project-Portfolio/blob/main/PHYS%20121%20Laboratory%20Re-design%20Project/images/image008.png "title-2" =50%x)
 ![alt-text-1](https://github.com/abdammar09/Project-Portfolio/blob/main/PHYS%20121%20Laboratory%20Re-design%20Project/images/image009.png "title-1" =50%x) ![alt-text-2]( https://github.com/abdammar09/Project-Portfolio/blob/main/PHYS%20121%20Laboratory%20Re-design%20Project/images/image008.png "title-2")
+
+<img src="https://github.com/abdammar09/Project-Portfolio/blob/main/PHYS%20121%20Laboratory%20Re-design%20Project/images/image009.png" width="50%"/> <img src="https://github.com/abdammar09/Project-Portfolio/blob/main/PHYS%20121%20Laboratory%20Re-design%20Project/images/image008.png" width="50%"/> 
 <br>
 I also fabricated and assembled apparatus parts such as wooden lab jacks, support guides, and capillary tubing for reproducible lab experiments.
 <br>
