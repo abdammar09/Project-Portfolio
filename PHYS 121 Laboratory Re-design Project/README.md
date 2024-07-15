@@ -5,9 +5,7 @@ I created custom Python functions to automate data processing for empirical data
 <br>
 Here are some images of generated plots using these functions
 <br>
-![alt-text-1](https://github.com/abdammar09/Project-Portfolio/blob/main/PHYS%20121%20Laboratory%20Re-design%20Project/images/image009.png "w") ![alt-text-2](image2.png "title-2")
-![alt-text-1](https://github.com/abdammar09/Project-Portfolio/blob/main/PHYS%20121%20Laboratory%20Re-design%20Project/images/image009.png "title-1" =50%x) ![alt-text-2]( "title-2" =75%x)
-<img title="a title" alt="Alt text" src="https://github.com/abdammar09/Project-Portfolio/blob/main/PHYS%20121%20Laboratory%20Re-design%20Project/setup.jpg" width="50%" height="50%">
+![alt-text-1](https://github.com/abdammar09/Project-Portfolio/blob/main/PHYS%20121%20Laboratory%20Re-design%20Project/images/image009.png "title-1" =50%x) ![alt-text-2](https://github.com/abdammar09/Project-Portfolio/blob/main/PHYS%20121%20Laboratory%20Re-design%20Project/images/image008.png "title-2" =50%x)
 
 <br>
 I also fabricated and assembled apparatus parts such as wooden lab jacks, support guides, and capillary tubing for reproducible lab experiments.
