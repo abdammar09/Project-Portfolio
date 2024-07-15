@@ -5,6 +5,7 @@ I created custom Python functions to automate data processing for empirical data
 <br>
 Here are some images of generated plots using these functions
 <br>
+![alt-text-1]( "title-1") ![alt-text-2](image2.png "title-2")
 <img title="a title" alt="Alt text" src="https://github.com/abdammar09/Project-Portfolio/blob/main/PHYS%20121%20Laboratory%20Re-design%20Project/setup.jpg" width="50%" height="50%">
 
 <br>
