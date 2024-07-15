@@ -3,7 +3,8 @@ In this course enhancement project I contributed to developing a large digital q
 
 Please navigate to these links to view(and maybe attempt :) ) some of the questions I developed for the problem bank.
 - [Railcar Softball Pitch](https://ca.prairielearn.com/pl/course_instance/2405/instance_question/90437987/)
-- [Hydraulic vs Electric Circuits - Electric Resistivities](https://github.com/abdammar09/Project-Portfolio/blob/main/PHYS%20121%20Laboratory%20Re-design%20Project/Hydraulic%20vs%20Electric%20Circuits-Electrical%20Resistivities/Investigating%20properties%20of%20hydraulic%20vs%20electric%20circuits-%20Electrical%20Resistivity.ipynb)
+- [Cable Row Machine](https://ca.prairielearn.com/pl/course_instance/2405/instance_question/90437995/)
+- [Gravity Induced Motion of Connected Particles](https://ca.prairielearn.com/pl/course_instance/2405/instance_question/90438003/)
 
 <br>
 
