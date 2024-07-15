@@ -4,7 +4,7 @@ In this course re-design project I created digital read + write  laboratory manu
 <br>
 
 ## Key Highlights
--I created custom Python functions to automate data processing for empirical data collection, compute derived quantities and intermediate variables, regression methods for multivariable modeling, and statistical testing such as histograms, and data distributions.
+I created custom Python functions to automate data processing for empirical data collection, compute derived quantities and intermediate variables, regression methods for multivariable modeling, and statistical testing such as histograms, and data distributions.
 <br><br>
 Here are some images of generated plots using these functions
 <br>
