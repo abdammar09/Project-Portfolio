@@ -2,7 +2,7 @@ In this course re-design project I created digital read + write  laboratory manu
 <br>
 <br>
 I created custom Python functions to automate data processing for empirical data collection, compute derived quantities and intermediate variables, regression methods for multivariable modeling, and statistical testing such as histograms, and data distributions.
-<br>
+<br><br>
 Here are some images of generated plots using these functions
 <br>
 
@@ -11,5 +11,7 @@ Here are some images of generated plots using these functions
 I also fabricated and assembled apparatus parts such as wooden lab jacks, support guides, and capillary tubing for reproducible lab experiments.
 <br>
 <br>
+<img src="https://github.com/abdammar09/Project-Portfolio/blob/main/PHYS%20121%20Laboratory%20Re-design%20Project/images/image009.png" width="35%"/>
+
 Modeled and 3D-printed experiment equipment like variable magnet spacers using Solidworks.
 
