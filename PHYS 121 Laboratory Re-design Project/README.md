@@ -17,7 +17,7 @@ Below is the apparatus setup for a hydraulic laboratory:
 <img src="https://github.com/abdammar09/Project-Portfolio/blob/main/PHYS%20121%20Laboratory%20Re-design%20Project/images/setup.jpg" width="35%"/>
 <br>
 <br>
-Modeled and 3D-printed experiment equipment like variable magnet spacers using Solidworks.
+Finally, I modeled and 3D-printed experiment laboratory equipment like variable magnet spacers using Solidworks.
 <br>
 <br>
 Here is the 3D-model of the magnet spacers:
