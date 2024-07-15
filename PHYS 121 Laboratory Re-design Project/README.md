@@ -18,7 +18,7 @@ Here are some images of generated plots using these functions
 
 I also fabricated and assembled apparatus parts such as wooden lab jacks, support guides, and capillary tubing for reproducible lab experiments.
 <br><br>
-Below is the apparatus setup for a hydraulic laboratory:
+Below is the apparatus setup for a hydraulic analog of electrical current flow laboratory experiment:
 <br>
 <img src="https://github.com/abdammar09/Project-Portfolio/blob/main/PHYS%20121%20Laboratory%20Re-design%20Project/images/setup.jpg" width="35%"/>
 <br>
