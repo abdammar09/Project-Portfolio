@@ -11,7 +11,7 @@ Here are some images of generated plots using these functions
 I also fabricated and assembled apparatus parts such as wooden lab jacks, support guides, and capillary tubing for reproducible lab experiments.
 <br>
 <br>
-<img src="https://github.com/abdammar09/Project-Portfolio/blob/main/PHYS%20121%20Laboratory%20Re-design%20Project/images/image009.png" width="35%"/>
+<img src="https://github.com/abdammar09/Project-Portfolio/blob/main/PHYS%20121%20Laboratory%20Re-design%20Project/images/setup.jpg" width="35%"/>
 
 Modeled and 3D-printed experiment equipment like variable magnet spacers using Solidworks.
 
