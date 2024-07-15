@@ -22,5 +22,6 @@ Finally, I modeled and 3D-printed experiment laboratory equipment like variable 
 <br>
 Here is the 3D-model of the magnet spacers:
 <br>
+<br>
 <img src="https://github.com/abdammar09/Project-Portfolio/blob/main/PHYS%20121%20Laboratory%20Re-design%20Project/images/image009.png" width="35%"/> $~~~~~$<img src="https://github.com/abdammar09/Project-Portfolio/blob/main/PHYS%20121%20Laboratory%20Re-design%20Project/images/image008.png" width="35%"/> 
 
