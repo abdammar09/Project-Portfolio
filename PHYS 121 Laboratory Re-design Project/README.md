@@ -4,7 +4,8 @@ In this course re-design project I created digital read + write  laboratory manu
 <br>
 Please navigate to these pages to find the Jupyter Notebooks which I designed for the laboratory experiments
 <br>
-[Hydraulic RC Circuit](https://www.example.com)
+<br>
+- [Hydraulic RC Circuit](https://www.example.com)
 
 ## Key Highlights
 I created custom Python functions to automate data processing for empirical data collection, compute derived quantities and intermediate variables, regression methods for multivariable modeling, and statistical testing such as histograms, and data distributions.
