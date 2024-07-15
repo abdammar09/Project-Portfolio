@@ -3,7 +3,8 @@ In this course enhancement project I contributed to developing a large digital q
 
 <br>
 Please navigate to these links to view(and maybe attempt) some of the questions I developed for the problem bank.
-<br>
-[link name](https://www.example.com)
+- [Hydraulic RC Circuit](https://github.com/abdammar09/Project-Portfolio/blob/main/PHYS%20121%20Laboratory%20Re-design%20Project/Hydraulic%20RC%20Circuit/Investigating%20properties%20of%20hydraulic%20vs%20electric%20circuits-%20RC%20Circuitipynb.ipynb)
+- [Hydraulic vs Electric Circuits - Electric Resistivities](https://github.com/abdammar09/Project-Portfolio/blob/main/PHYS%20121%20Laboratory%20Re-design%20Project/Hydraulic%20vs%20Electric%20Circuits-Electrical%20Resistivities/Investigating%20properties%20of%20hydraulic%20vs%20electric%20circuits-%20Electrical%20Resistivity.ipynb)
+
 
 
