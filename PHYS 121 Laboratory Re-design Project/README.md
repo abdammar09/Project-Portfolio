@@ -2,7 +2,7 @@
 In this course re-design project I created digital read + write  laboratory manuals for PHYS 121/122($1^{st}$ Year Electromagnetics University Course) using Python and Markdown in Jupyter Notebooks to familiarize students with modern data collection and analytical methods. I assisted in designing and integrating original laboratory experiments into the PHYS 121/122 course curriculum, including conducting tests to verify hypotheses and assess safety risks.
 <br>
 <br>
-Please navigate to these pages to find the Jupyter Notebooks which I designed for the laboratory experiments
+Please navigate to these pages to find the Jupyter Notebooks which I designed for the laboratory experiments.
 - [Hydraulic RC Circuit](https://www.example.com)
 - [Hydraulic vs Electric Circuits - Electric Resistivities](https://www.example.com)
 
