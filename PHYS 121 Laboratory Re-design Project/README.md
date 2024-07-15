@@ -4,7 +4,7 @@ In this course re-design project I created digital read + write  laboratory manu
 <br>
 Please navigate to these pages to find the Jupyter Notebooks which I designed for the laboratory experiments.
 - [Hydraulic RC Circuit](https://github.com/abdammar09/Project-Portfolio/blob/main/PHYS%20121%20Laboratory%20Re-design%20Project/Hydraulic%20RC%20Circuit/Investigating%20properties%20of%20hydraulic%20vs%20electric%20circuits-%20RC%20Circuitipynb.ipynb)
-- [Hydraulic vs Electric Circuits - Electric Resistivities](https://www.example.com)
+- [Hydraulic vs Electric Circuits - Electric Resistivities](https://github.com/abdammar09/Project-Portfolio/blob/main/PHYS%20121%20Laboratory%20Re-design%20Project/Hydraulic%20vs%20Electric%20Circuits-Electrical%20Resistivities/Investigating%20properties%20of%20hydraulic%20vs%20electric%20circuits-%20Electrical%20Resistivity.ipynb)
 
 ## Key Highlights
 I created custom Python functions to automate data processing for empirical data collection, compute derived quantities and intermediate variables, regression methods for multivariable modeling, and statistical testing such as histograms, and data distributions.
