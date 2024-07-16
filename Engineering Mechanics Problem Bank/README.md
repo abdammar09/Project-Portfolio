@@ -1,7 +1,7 @@
 ## Project Overview
 In this course enhancement project I contributed to developing a large digital question bank supporting variants of each question through randomisation of variable in the Prairie learn API for the engineering mechanics course (Dynamics - APSC181) to implement a mastery of learning approach. I formulated 30+ unique APSC 181 questions for tutorials, assignments, and midterms, focusing on engineering applications. I coded questions in Markdown and Python using scripts. I utilized an inverse kinematics-based question creation framework to eliminate extraneous randomly generated values and ensure real-world conformity. I also maintained and documented code while tracking project issues on GitHub using Issue Tracker, Milestones, and Discussions with other project contributors.
 
-Please navigate to these links to view(and maybe attempt :) ) some of the questions I developed for the problem bank.
+<em>Due to the problem bank being accessible only to students and instructors enrolled in the APSC 181 course at UBC-O, I am including images of the front-end problem bank interface for some questions in Prairie learn</em>
 - [Railcar Softball Pitch](https://ca.prairielearn.com/pl/course_instance/2405/instance_question/90437987/)
 - [Cable Row Machine](https://ca.prairielearn.com/pl/course_instance/2405/instance_question/90437995/)
 - [Gravity Induced Motion of Connected Particles](https://ca.prairielearn.com/pl/course_instance/2405/instance_question/90438003/)
