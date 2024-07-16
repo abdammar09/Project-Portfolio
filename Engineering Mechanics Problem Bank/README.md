@@ -4,7 +4,7 @@ In this course enhancement project I contributed to developing a large digital q
 <em>Due to the problem bank being accessible only to students and instructors enrolled in the APSC 181 course at UBC-O, I am including gifs of the front-end problem bank interface for some questions in Prairie learn</em>
 
 
-<img src="https://github.com/abdammar09/Project-Portfolio/blob/main/Engineering%20Mechanics%20Problem%20Bank/HW1.22OPB000_PrairieLearn-GoogleChrome2024-07-1600-33-29online-video-cutter.com1-ezgif.com-video-to-gif-converter.gif" width="75%" height="75%"/>
+<img src="https://github.com/abdammar09/Project-Portfolio/blob/main/Engineering%20Mechanics%20Problem%20Bank/HW1.5OPB000_Rail%20Car-07-1600-58-05-ezgif.com-video-to-gif-converter.gif" width="75%" height="75%"/>
 
 <img src="https://github.com/abdammar09/Project-Portfolio/blob/main/Engineering%20Mechanics%20Problem%20Bank/HW1.22OPB000_PrairieLearn-GoogleChrome2024-07-1600-33-29online-video-cutter.com1-ezgif.com-video-to-gif-converter.gif" width="75%" height="75%"/>
 
