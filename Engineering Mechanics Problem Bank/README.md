@@ -5,6 +5,7 @@ In this course enhancement project I contributed to developing a large digital q
 - [Railcar Softball Pitch](https://ca.prairielearn.com/pl/course_instance/2405/instance_question/90437987/)
 - [Cable Row Machine](https://ca.prairielearn.com/pl/course_instance/2405/instance_question/90437995/)
 - [Gravity Induced Motion of Connected Particles](https://ca.prairielearn.com/pl/course_instance/2405/instance_question/90438003/)
+- ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 <br>
 
